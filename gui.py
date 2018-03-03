@@ -1,5 +1,5 @@
 #coding: utf-8
-#0.1.0
+#0.2.0
 import Tkinter as tk
 import csv
 import random
